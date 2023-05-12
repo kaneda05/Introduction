@@ -1,4 +1,4 @@
-package Java.chr2;
+package Java.JvaDrive.chr2;
 class Hello{
     public static void main(String[] args){
       System.out.println("Hello");
