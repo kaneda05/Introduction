@@ -1,4 +1,4 @@
-package Java.JvaDrive.chr3;
+package Java.JavaDrive.chr3;
 /**
  * JSample6_1
  * 2023.05.12
